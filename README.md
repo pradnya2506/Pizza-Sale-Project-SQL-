@@ -1,1 +1,1 @@
-# Pizza-Sale-Project-SQL-
+Designed and queried a relational database consisting of Orders, Order Details, Pizzas, and Pizza Types tables. Performed advanced SQL operations including joins, aggregations, and subqueries to analyze KPIs like total revenue, sales trends, and category performance, identifying top-performing products and peak business hours.
